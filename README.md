@@ -1,3 +1,6 @@
+# Publication
+This research has been published at IEEE/SICE International Symposium on System Integration 2022 (SII 2022). You can find my paper in this repository. The formal URL to the paper will be updated soon.
+
 # Extending-HoloGAN-for-novel-view-synthesis
 This is a work extends HoloGAN for novel view synthesis. HoloGAN is a GAN trained in
 an entirely unsupervised manner, and can generate images of the same content from various viewpoints.
