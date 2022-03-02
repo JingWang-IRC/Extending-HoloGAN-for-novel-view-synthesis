@@ -1,5 +1,6 @@
 # Publication
-This research has been published at IEEE/SICE International Symposium on System Integration 2022 (SII 2022). You can find my paper in this repository. The formal URL to the paper will be updated soon.
+This research has been published at IEEE/SICE International Symposium on System Integration 2022 (SII 2022). You can find my paper in this repository. In addition, [the URL to this paper is here](https://ieeexplore.ieee.org/document/9708823/footnotes#footnotes).
+
 
 # Extending-HoloGAN-for-novel-view-synthesis
 This is a work extends HoloGAN for novel view synthesis. HoloGAN is a GAN trained in
